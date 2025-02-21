@@ -9,3 +9,5 @@ pip install django
 ./venv/scripts/deactivate
 
 pip install -r requirements.txt
+
+python djangotutorial/manage.py runserver
